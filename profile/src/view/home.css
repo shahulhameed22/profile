@@ -1,0 +1,30 @@
+
+.self{
+    border-radius: 30%;
+    
+}
+.main1{
+    background-color:  rgb(211, 122, 152);
+}
+.txtnm1{
+    font-style: oblique;
+    font-weight: 700;
+    color: rgb(80, 9, 33);
+}
+.txtnm2{
+    font-weight: 500;
+    color:  rgb(80, 9, 33);
+}
+.txtnm3{
+    font-weight: 400;
+    color:  rgb(80, 9, 33);
+}
+.btn1{
+    background-color: rgba(57, 6, 31, 0.811);
+    border: none;
+    font-weight: 600;
+    width: 25%;
+    height: 10%;
+    font-size: large;
+    border-radius: 15px;
+}

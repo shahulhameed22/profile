@@ -1,0 +1,12 @@
+.edu{
+    background-color: rgb(211, 122, 152);
+    
+}
+.container1{
+    height: 350px;
+    width: 400px;
+    border: 2px solid rgb(218, 68, 68);
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(125, 19, 55) ;
+}
